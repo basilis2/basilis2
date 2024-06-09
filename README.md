@@ -1,13 +1,13 @@
-### Hello World, I'm Anna  👋
+### Hello World, I'm Basilis  👋
 
-## I'm a Wife, Mother, Developer, Creator, and Mentor!!
+## I'm a Developer, Creator, and Mentor!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Native and Azure
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- 😄 Pronouns:He/Him
+- ⚡ Fun fact: I love solving puzzles and playing strategy games in my free time.
 
 
 ### Talk with me, I am kinda awesome:
@@ -40,20 +40,16 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Basilis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=basilis2&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="Basilis2's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilis2" />
 
 </details>
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
+[linkedin]: https://www.linkedin.com/in/basilis-katsikonouris-0882a9276/
 
