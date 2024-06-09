@@ -1,8 +1,5 @@
 ### Hello World, I'm Basilis  👋
 
-<img src="https://github.com/basilis2/basilis2/blob/main/amimation.gif" alt="Animation" width="150" align="right">
-
-
 ## I'm a Developer, Creator, and Mentor!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
@@ -11,6 +8,7 @@
 - 💬 Ask me about ... Anything
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: I love solving puzzles and playing strategy games in my free time.
+<img src="https://github.com/basilis2/basilis2/blob/main/amimation.gif" alt="Animation" width="150" align="right">
 
 
 ### Talk with me, I am kinda awesome:
