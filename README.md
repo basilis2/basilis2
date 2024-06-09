@@ -9,7 +9,6 @@
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: I love solving puzzles and playing strategy games in my free time.
 
-<img src="https://github.com/basilis2/basilis2/blob/main/amimation.gif" alt="Animation" width="150" align="right">
 
 
 ### Talk with me, I am kinda awesome:
