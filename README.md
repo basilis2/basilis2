@@ -1,5 +1,5 @@
 ### Hello World, I'm Basilis  👋
-<img align="right" alt="GIF" src="https://github.com/basilis2/basilis2/raw/main/animation.gif" width="500" height="320" />
+
 
 
 ## I'm a Developer, Creator, and Mentor!!
@@ -11,7 +11,7 @@
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: I love solving puzzles and playing strategy games in my free time.
 
-
+<img align="right" alt="GIF" src="https://github.com/basilis2/basilis2/raw/main/animation.gif" width="500" height="320" />
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
