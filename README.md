@@ -1,64 +1,59 @@
-## Hi there 👋
+### Hello World, I'm Anna  👋
 
-## Hi there 👋
+## I'm a Wife, Mother, Developer, Creator, and Mentor!!
+- ✍ You can find my projects here [portfolio]
+- 🔭 I’m currently working on my first book.
+- 🌱 I’m currently learning React Native and Azure
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about ... Anything
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
-<!--
-**basilis2/basilis2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Talk with me, I am kinda awesome:
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
 
-<img src="https://github.com/basilis2/basilis2/raw/main/profile-cover.jpg" alt="Profile Cover" width="100%">
+### Languages and Tools:
 
-### About Me
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
+[<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][youtube]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][youtube]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][youtube]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][youtube]
+[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
+[<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][youtube]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
+[<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][youtube]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][youtube]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
 
-<img src="https://github.com/basilis2/basilis2/raw/main/avatar.jpg" alt="Avatar" width="150" align="right">
+<br />
+<br />
+---
 
-I am a software engineer with a degree in Computer Science. I am passionate about developing scalable and efficient software solutions. Below are some details about my professional journey and interests.
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-- 🔭 I’m currently working on building and improving task management applications.
-- 🌱 I’m currently learning advanced React patterns and Node.js optimization techniques.
-- 👯 I’m looking to collaborate on open-source projects related to web development and cloud computing.
-- 🤔 I’m looking for help with contributing to large-scale open-source projects.
-- 💬 Ask me about JavaScript, React, Node.js, MongoDB, and best coding practices.
-- 📫 How to reach me: [vasilisperformance@gmail.com](mailto:vasilisperformance@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving puzzles and playing strategy games in my free time.
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
 
-### Skills
+</details>
 
-- **Languages:** JavaScript, Python, Java
-- **Frontend:** React, Redux, HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, MySQL
-- **DevOps:** Docker, Travis CI
-- **Testing:** Jest, Enzyme
+<details>
+  <summary>:zap: Most Used Languages</summary>
 
-### Projects
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
 
-#### [TaskManager](https://github.com/basilis2/TaskManager)
-<img src="https://github.com/basilis2/TaskManager/raw/main/screenshot.png" alt="TaskManager Screenshot" width="300">
+</details>
 
-A web-based task management application designed to help users keep track of their to-do lists, projects, and deadlines.
-
-#### [WeatherApp](https://github.com/basilis2/WeatherApp)
-<img src="https://github.com/basilis2/WeatherApp/raw/main/screenshot.png" alt="WeatherApp Screenshot" width="300">
-
-A simple weather application that provides real-time weather updates for any location using the OpenWeatherMap API.
-
-### Contact Me
-
-Feel free to reach out if you have any questions or if you’d like to collaborate on a project!
-
-- Email: [vasilisperformance@gmail.com](mailto:vasilisperformance@gmail.com)
-- GitHub: [basilis2](https://github.com/basilis2)
+[website]: https://holistic-developer.com/
+[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
+[instagram]: https://www.instagram.com/holistic_developer/
+[linkedin]: https://linkedin.com/in/annaarsentieva
+[portfolio]: https://arsentieva.github.io/profile/
 
