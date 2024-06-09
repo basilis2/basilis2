@@ -1,5 +1,7 @@
 ### Hello World, I'm Basilis  👋
 
+ <img align="right" alt="GIF" src="https://github.com/https://github.com/basilis2/basilis2/blob/main/amimation.gif?raw=true" width="500" height="320" />
+
 ## I'm a Developer, Creator, and Mentor!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
