@@ -1,6 +1,6 @@
 ### Hello World, I'm Basilis  👋
 
-<img src="https://github.com/basilis2/basilis2/raw/main/animation.gif" alt="Animation" width="150" align="right">
+<img src="https://github.com/basilis2/basilis2/blob/main/amimation.gif" alt="Animation" width="150" align="right">
 
 
 ## I'm a Developer, Creator, and Mentor!!
