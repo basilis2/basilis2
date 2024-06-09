@@ -3,8 +3,8 @@
 
 
 ## I'm a Developer, Creator, and Mentor!!
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
+- ✍ You can find my projects here
+- 🔭 I’m currently working as a Software Engineer
 - 🌱 I’m currently learning React Native and Azure
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
