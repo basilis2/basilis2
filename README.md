@@ -8,7 +8,13 @@
 - 💬 Ask me about ... Anything
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: I love solving puzzles and playing strategy games in my free time.
-<img src="https://github.com/basilis2/basilis2/blob/main/amimation.gif" alt="Animation" width="150" align="right">
+<img src="https://github.com/basilis2/basilis2/raw/main/profile-cover.jpg" alt="Profile Cover" width="100%">
+
+### About Me
+
+<img src="https://github.com/basilis2/basilis2/raw/main/avatar.jpg" alt="Avatar" width="150" align="right">
+
+<img src="https://github.com/basilis2/basilis2/raw/main/animation.gif" alt="Animation" width="150" align="right">
 
 
 ### Talk with me, I am kinda awesome:
